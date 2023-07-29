@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 2953382175
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Door
+    uniqueID: 3732522777
+    locked: 0
+  - name: Monster
+    uniqueID: 3991479775
+    locked: 0
+  - name: Player
+    uniqueID: 3649875539
+    locked: 0
+  - name: Lava
+    uniqueID: 3485141059
+    locked: 0
